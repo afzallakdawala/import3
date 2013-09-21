@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  encoding: utf-8
+  database: imported
+  host: 127.0.0.1
+  user: afzal
+  password: afzal
+  port: 5432
+  min_messages: warning  
